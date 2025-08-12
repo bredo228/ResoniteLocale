@@ -83,6 +83,25 @@
 
         "Settings.FavoritesSettings": "Favourites",
 
+        "Help.General.Favoriting": "Favouriting",
+        "Help.General.Favoriting.Content": "Some items can be <b><color=hero.purple>Favourited</closeall>, like your Avatar, Keyboard, and Stream Camera. This allows you to replace default items with customised versions of each.<br><br>You can tell if an item is favourited if it has a pink background in your <color=hero.yellow><b>Inventory</closeall>.<br><br>See below for a list of <b><color=hero.yellow>Favouritable items</closeall>:",
+
+        "Help.General.Favoriting.ColorDialog.Content": "The colour picker for picking colours.",
+
+        "Help.Dashboard.DashboardCustomization": "Dashboard Customisation",
+        "Help.Dashboard.DashboardCustomization.Content": "Some tabs on your Dashboard can be customised and contain <b><color=hero.cyan>Facets</closeall>, or individual elements on the tab. Facets can be added, removed, resized, and replaced - which is how you can customise these tabs. To edit the facets on your Dashboard, enable <b><color=hero.cyan>UI Edit Mode</closeall> in your settings, or perform the quick gesture to enable it.<br><br>When UI Edit Mode is enabled, you will see a button below your Dashboard to disable UI Edit Mode. On tabs you can edit, a grid will appear behind the facets on the tab. Aiming at a Facet with your laser will highlight it, and while aiming at it you can press and hold <b><color=hero.purple>{Grip_Input}</closeall> to take off the Facet. While holding onto a Facet, you can aim on the Dashboard where you'd like to place it - release grip to place the Facet as-is, or instead click and drag with your laser to choose exactly where you'd like the Facet to be placed.",
+
+        "Help.Advanced.CloudVariables.PrimaryColor": "Primary Custom Colour",
+        "Help.Advanced.CloudVariables.PrimaryColor.Content": "This custom colour is used by the default avatar to colour its accents, including the metal trims, eyes, and mouth. This is intended to be used to colour the main or primary colour accents on items or UI.",
+        "Help.Advanced.CloudVariables.SecondaryColor": "Secondary Custom Colour",
+        "Help.Advanced.CloudVariables.SecondaryColor.Content": "This is the second of three colours available for use for all users. This is intended to be used to colour secondary colour accents on items or UI.",
+        "Help.Advanced.CloudVariables.TertiaryColor": "Tertiary Custom Colour",
+        "Help.Advanced.CloudVariables.TertiaryColor.Content": "This is the final of three colours available for use for all users. This is intended to be used to colour minor colour accents on items or UI.",
+        "Help.Advanced.CloudVariables.ColorsEnabled": "Custom Colours Enabled",
+        "Help.Advanced.CloudVariables.ColorsEnabled.Content": "This variable is intended to be used by items or UI which utilizes the above three colours. If this variable is <i>false</i>, custom colours should not be used.",
+        "Help.Advanced.CloudVariables.ColorPickerSwatch": "Custom Colour Picker Colours",
+        "Help.Advanced.CloudVariables.ColorPickerSwatch.Content": "This custom colour is one of six, which are primarily used in the colour picker. They are labeled <b><color=hero.purple>Color1</closeall> through <b><color=hero.purple>Color6</closeall> respectively.",      
+
         "Dummy": "Dummy"
     }
 }
